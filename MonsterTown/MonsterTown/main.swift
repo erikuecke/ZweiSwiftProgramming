@@ -9,7 +9,10 @@
 import Foundation
 
 var myTown = Town()
-myTown.changPopulation(by: 500)
+let myTownSize = myTown.townSize
+print(myTownSize)
+myTown.changPopulation(by: 1_000_000)
+print("\(myTown.townSize): population: \(myTown.population)")
 
 
 
@@ -28,3 +31,11 @@ fredTheZombie.name = "DeadZombie"
 fredTheZombie.zombieTerrorPower = 50
 fredTheZombie.terrorizeTown()
 fredTheZombie.town?.printDescription()
+
+print("Victim pool: \(fredTheZombie.victimPool)")
+fredTheZombie.victimPool = 500
+print("Vicitm pool: \(fredTheZombie.victimPool)")
+print(Zombie.spookyNoise)
+if Zombie.isTerrifying {
+    print("Run away!")
+}
