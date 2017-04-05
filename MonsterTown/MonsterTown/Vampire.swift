@@ -27,7 +27,7 @@ class Vampire: Monster {
             default:
                 super.terrorizeTown()
                 town?.changPopulation(by: vampireTerrorPower)
-                convertedVamps.append(Vampire())
+//                convertedVamps.append(Vampire())
                 printVampireCount()
             }
 
