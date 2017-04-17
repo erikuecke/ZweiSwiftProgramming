@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9DA9D35067B04B111F8B78252FD8D0A19E1BFB58",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : 9223372036854775807,
+    "9DA9D35067B04B111F8B78252FD8D0A19E1BFB58" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32DF29E7-9944-4E95-8281-4B6A9BE66697",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1" : "",
+    "9DA9D35067B04B111F8B78252FD8D0A19E1BFB58" : "ZweiSwiftProgramming\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift25",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift25.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/ToucherTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "669F6A4983E90EF46EC8DA4912BABFFD41B70AF1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/erikuecke\/ZweiSwiftProgramming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DA9D35067B04B111F8B78252FD8D0A19E1BFB58"
+    }
+  ]
+}
